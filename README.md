@@ -129,7 +129,6 @@ This project involves the design and implementation of a non-pipelined processor
 
 ## Phase 2 Objectives
 
-
 This project implements a non-pipelined processor based on a subset of the CHARIS (CHAnia Risc Instruction Set) Instruction Set Architecture (ISA). The main goals are to define the ISA, design various stages of the datapath, and create a functional memory model.
 
 ## Table of Contents
@@ -138,9 +137,6 @@ This project implements a non-pipelined processor based on a subset of the CHARI
 - [Memory Architecture](#memory-architecture)
 - [Implementation Steps](#implementation-steps)
 - [Testing and Verification](#testing-and-verification)
-
-
-
 
 ## Objectives
 
@@ -241,7 +237,7 @@ Note: Display multi-bit values in HEX or DEC as appropriate for clarity, especia
 
 # VHDL Conversion of a Single Cycle Processor to Multicycle Processor - Part 2
 
-## Overview
+## Phase 4 Overview
 
 This project involves the conversion of the single-cycle processor designed in Assignment #1 into a multi-cycle processor. The goal of Phase 4 is to enhance the processor's architecture by implementing a multi-cycle datapath and control unit.
 
